@@ -9,7 +9,7 @@
 * 사용자에게 필요한 대응 추천
 
 ## Development Environment
-<img width="300" height="300" alt="딥러닝" src="https://github.com/user-attachments/assets/8d7393a9-abf0-4e51-a2e8-97e85ed9c356" /><img width="300" height="300" alt="앱" src="https://github.com/user-attachments/assets/ecac2ac1-fa30-4f8b-94d9-cadbf4525df7" /><img width="300" height="300" alt="서버" src="https://github.com/user-attachments/assets/1feb5d77-d1cf-4e89-ad05-89fc04ed93e0" />
+<img width="250" height="250" alt="딥러닝" src="https://github.com/user-attachments/assets/8d7393a9-abf0-4e51-a2e8-97e85ed9c356" /><img width="250" height="250" alt="앱" src="https://github.com/user-attachments/assets/ecac2ac1-fa30-4f8b-94d9-cadbf4525df7" /><img width="250" height="250" alt="서버" src="https://github.com/user-attachments/assets/1feb5d77-d1cf-4e89-ad05-89fc04ed93e0" />
 ## Data Set
 * AI Hub의 식물 병 유발 통합 데이터
 <img width="1382" height="334" alt="데이터셋" src="https://github.com/user-attachments/assets/75e0d216-72df-4954-a949-ebf57aaa84a5" />
@@ -21,6 +21,4 @@
 * 모델에서 받아오는 결과를 DB에 저장
 * 앱으로 사용자에게 제공
 ## Screen Example
-<img width="300" height="400" alt="메인" src="https://github.com/user-attachments/assets/698b56e5-7694-4cac-b78c-59bc22e4578b" /><img width="300" height="400" alt="이미지 선택" src="https://github.com/user-attachments/assets/76474b6f-8fd4-40a3-a144-0553f2c1280f" /><img width="300" height="400" alt="결과1" src="https://github.com/user-attachments/assets/ea6c06e8-ea01-4a5b-886f-fd488d7730fc" />
-
-
+<img width="250" height="300" alt="메인" src="https://github.com/user-attachments/assets/698b56e5-7694-4cac-b78c-59bc22e4578b" /><img width="250" height="300" alt="이미지 선택" src="https://github.com/user-attachments/assets/76474b6f-8fd4-40a3-a144-0553f2c1280f" /><img width="250" height="300" alt="결과1" src="https://github.com/user-attachments/assets/ea6c06e8-ea01-4a5b-886f-fd488d7730fc" />
