@@ -14,3 +14,6 @@ Yolo 5v 사용
 
 ## Example
 <img width="400" height="600" alt="모델 예시" src="https://github.com/user-attachments/assets/4cc203b4-e5a6-435b-af2e-84d68c2a0f98" />
+
+## Data Set
+[AI Hub](https://www.aihub.or.kr/aihubdata/data/view.do?currMenu=115&topMenu=100&dataSetSn=525)의 토마토 생리장해 데이터 사용
