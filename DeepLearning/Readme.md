@@ -3,8 +3,8 @@ GrowFarm DeepLearning 모델
 ## Info
 Yolo 5v 사용
 ## Key Features
-* 잎 사진에서 잎 객체 판지
-* 잎 객체에서 결핍 원소 판지
+* 잎 사진에서 잎 객체 탐지
+* 잎 객체에서 결핍 원소 탐지
 ## Direction
 * 두 모델을 연결해서 사용
 > * 해당 부분은 서버 코드에 있음
